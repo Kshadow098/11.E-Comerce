@@ -50,6 +50,5 @@ Based on the A/B test results:
 
 ## 💻 How to Run
 1.  Clone the repository:
-    ```bash
-    git clone [URL_DEL_TU_REPO]
+    (https://github.com/Kshadow098/11.E-Comerce.git)
     
