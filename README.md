@@ -45,7 +45,7 @@ The analysis uses three datasets:
 
 ## 🚀 Conclusion & Decision
 Based on the A/B test results:
-* **Decision:** **`[Insertar decisión: Stop the test, Group B wins]`**.
+* **Decision:** **`[Stop the test, Group B wins]`**.
 * **Reasoning:** Although the average order size did not change significantly, the **conversion rate increased** clearly and stabilized in Group B, leading to higher overall revenue.
 
 ## 💻 How to Run
